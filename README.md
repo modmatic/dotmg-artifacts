@@ -1,2 +1,2 @@
 # dotmg-artifacts
-Artifacts related to DotMG, such as shell files, circuit diagrams, etc.
+Artifacts related to dotMG, such as shell files, circuit diagrams, etc.
