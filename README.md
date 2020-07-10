@@ -11,7 +11,7 @@ STL files should be printed with a **0.2mm** layer height and **supports enabled
 - The front/back faces can either be laser-cut or 3D-printed. Files for both options are included.
 
 - The bezel around the screen can be laser-cut or 3D-printed, though 3D-printing is likely the best option for most because it should be thin.
-If laser-cutting, multiple thin layers are recommended (one solid-colored layer for bezel, the other a fully transparent layer for protective covering). Lens layers are annotated in the EPS file.
+If laser-cutting, multiple thin layers are recommended (one solid-colored layer for bezel, the other a fully transparent layer for protective covering). Lens layers are noted in the lens EPS file names.
 
 - The inner portions of the shell must be 3D-printed.
 
